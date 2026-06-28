@@ -47,4 +47,4 @@ signup-form/
 
 ## Author
 
-Sumit Kumar
+Amit Kumar
